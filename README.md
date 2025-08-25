@@ -3,8 +3,8 @@ This is a Data Analysis project that aims to analyze the obtained data and gener
 
 Contents of Repo:
 
-Dashboard preview
-Analysis report
-Power BI dashboard
-Dataset(original)
+* Dashboard preview
+* Analysis report
+* Power BI dashboard
+* Dataset(original)
 
